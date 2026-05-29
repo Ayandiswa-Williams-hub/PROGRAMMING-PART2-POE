@@ -6,13 +6,13 @@ A modern WPF GUI Cybersecurity Chatbot with voice greeting, keyword recognition,
 
 ---
 
-## 👤 Student Information
+ Student Information
 - **Name**: Ayandiswa Williams
 - **Student Number**: [Your Student Number]
 
 ---
 
-## ✨ Features Implemented (Part 2)
+ Features Implemented (Part 2)
 
  Clean WPF GUI with dark cybersecurity theme
  Voice greeting on startup (`greeting.wav`)
